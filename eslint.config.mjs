@@ -2,7 +2,6 @@
 // import globals from "globals";
 // import pluginReact from "eslint-plugin-react";
 // import { defineConfig } from "eslint/config";
-// import pluginSecurity from "eslint-plugin-security";
 
 // export default defineConfig([
 //   {
